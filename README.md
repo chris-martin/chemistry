@@ -15,8 +15,8 @@ val fructoseMass =
   atomicMass("O") * 6
 ```
 
-Moles per gram of fructose:
+Molecules per gram of fructose:
 
 ```
-val fructoseMolPerGram = avogadro / fructoseMass
+val fructoseMoleculesPerGram = avogadro / fructoseMass
 ```
